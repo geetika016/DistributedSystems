@@ -1,2 +1,2 @@
 # DistributedSystems
-Summaries of papers in Distributed Systems 
+Summaries of a few papers in Distributed Systems 
